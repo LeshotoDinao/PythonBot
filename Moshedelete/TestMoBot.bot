@@ -1,0 +1,18 @@
+{
+    "name": "TestMo",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "282f8b1e-9e5f-4c69-af56-369eef9234e7",
+            "appPassword": "",
+            "endpoint": "https://pythonbot1.azurewebsites.net",
+            "id": "babe1570-088a-11ea-866a-8b8d3dfc8d0d",
+            "name": "https://pythonbot1.azurewebsites.net"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\lesho\\Desktop\\PythonProjects\\LUISBot\\CreateDProject\\Moshedelete\\TestMoBot.bot"
+}
